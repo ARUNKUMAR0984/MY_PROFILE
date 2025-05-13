@@ -9,6 +9,12 @@
 
 
 <div align="center">
+
+
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-GitHub-black?style=for-the-badge&logo=github" alt="Connect on GitHub"/>
+  </a>
+
   
 [![GitHub followers](https://img.shields.io/github/followers/ARUNKUMAR0984?logo=GitHub&style=for-the-badge)](https://github.com/ARUNKUMAR0984)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arunkumar-s-8388a3252)
@@ -313,5 +319,6 @@ I'm continuously expanding my knowledge in:
 > "Great apps are built with passion, perseverance, and a profound understanding of user needs."
 
 ---
-
 ### ⭐ If you find my work interesting, don't forget to star my repositories and connect with me!
+
+
